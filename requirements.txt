@@ -1,0 +1,4 @@
+requirements
+
+==python 3
+==numpy
